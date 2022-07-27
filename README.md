@@ -1,3 +1,5 @@
 # Algorithms_Visualizer
 
-This project is a Web Visualization tool for various algorithms.
+A static website for visualizing Sorting Algorithms for better understanding.
+
+## <p align="center"> [View Site](https://surajbugade.github.io/Algorithms_Visualizer/) </p>
